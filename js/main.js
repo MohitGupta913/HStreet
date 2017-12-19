@@ -1,6 +1,6 @@
 /**Preload**/
-$(window).load(function () {
-    $('#page-loader').delay(500).fadeOut(400, function () {
+$(window).on('load', function () {
+    $('#page-loader').delay(1000).fadeOut("slow", function () {
         $('body').fadeIn();
     });
 });
