@@ -1712,3 +1712,41 @@ ul, li {
       font-size: 20px;
   }
 }
+
+
+.modal, .close {
+  color: #fff;
+}
+
+.modal-content {
+  padding: 10px;
+  background-color: #333;
+}
+
+.modal-content h3 {
+  font-family: "Oswald", sans-serif;
+}
+
+.modal-content p {
+  margin: 10px 0px 15px 0px;
+  font-size: 15px;
+}
+
+.modal-content input {
+  height: 40px;
+  width: 100%;
+  line-height: 40px;
+  outline: none;
+  border: none;
+  background-color: #fff;
+  font-size: 14px;
+  padding: 0px 15px;
+  margin: 15px 0px; }
+
+.modal-content .btn {
+  width: 100%;
+}
+
+.modal-footer {
+  text-align:center;
+}

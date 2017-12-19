@@ -62,3 +62,10 @@ $(document).ready(function ($) {
         $('.reviews-item').matchHeight();
     }
 });
+
+//Newsletter
+    $(window).on('load', function(){
+        setTimeout(function(){
+            $('#myModal').modal('show');
+        }, 1500);
+     });
