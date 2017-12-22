@@ -1,7 +1,7 @@
----
 title: x
-date: 2017-12-21 17:35:54
-tags:
+tags: []
+categories: []
+author: akash
+date: 2017-12-21 17:35:00
 ---
-
-gandhi nagar
+Gandhi Nagar Delhi 31
